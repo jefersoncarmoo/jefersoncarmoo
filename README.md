@@ -23,8 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jefersoncarmoo&show_icons=true&locale=en&layout=compact" alt="jefersoncarmoo" /></p>
 
-### Estatísticas
-
+<h3 align="left">Estatísticas:</h3>
 <p>
   <img 
     align="left" 
@@ -40,7 +39,6 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersoncarmoo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
 <!---
