@@ -11,12 +11,6 @@
 
 - 📄 Aqui estão as minhas habilidades [https://www.linkedin.com/in/jefersondasilvacarmo](https://www.linkedin.com/in/jefersondasilvacarmo)
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://twitter.com/jefersooncarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jefersooncarm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jefersondasilvacarmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jefersondasilvacarmo" height="30" width="40" /></a>
-<a href="https://instagram.com/jefersoncarmoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jefersoncarmoo" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Linguagens e Tecnologias:</h3>
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
