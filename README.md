@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jefersoncarmoo&show_icons=true&locale=en&layout=compact" alt="jefersoncarmoo" /></p>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
