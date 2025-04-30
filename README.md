@@ -13,7 +13,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jefersondasilvacarmo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jefersondasilvacarmo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/jefersoncarmoo" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="jefersoncarmoo" height="40" width="40" /></a>
 <a href="https://twitter.com/jefersooncarm" target="blank"><img align="center" src="https://logos-download.com/wp-content/uploads/2023/12/X_Logo_app_icon.png" alt="jefersooncarm" height="30" width="30" /></a>
 </p>
