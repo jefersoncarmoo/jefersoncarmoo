@@ -27,26 +27,27 @@
 <a href="https://www.postgresql.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" height="40" width="40" /></a>
 </p>
 
-<!---
+<br/>
+<br/>
+
 <h3 align="left">Estatísticas:</h3>
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jefersoncarmoo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=jefersoncarmoo&show_icons=true&theme=prussian&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersoncarmoo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="160" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersoncarmoo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
 
-
+<!---
 - 👋 Hi, I’m @jefersoncarmoo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
