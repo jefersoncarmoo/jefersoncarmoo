@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Jeferson</h1>
-<h3 align="center">Estudante de análise de Dados | Python, Power BI, Looker Studio e SQL</h3>
+<h3 align="center">Estudante de Análise de Dados | Python, Power BI, Looker Studio e SQL</h3>
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados. Projeto: [Análise de uso e percepção das Redes Sociais](https://lookerstudio.google.com/reporting/c9cff570-dddf-4196-b9e1-3b8c7fff7421)
 
@@ -28,10 +28,8 @@
 </p>
 
 <br/>
-<br/>
 
 <h3 align="left">Estatísticas:</h3>
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
