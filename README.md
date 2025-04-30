@@ -19,10 +19,15 @@
 </p>
 
 <h3 align="left">Linguagens e Tecnologias:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="python" width="40" height="40"/> </a> <a href="https://lookerstudio.google.com/" target="blank" rel="noreferrer"> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.python.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="https://www.linkedin.com/in/jefersondasilvacarmo" height="40" width="40" /></a>
+<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="jefersoncarmoo" height="40" width="40" /></a>
+<a href="https://lookerstudio.google.com/" target="blank"><img align="center" src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="jefersooncarm" height="40" width="40" /></a> 
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="jefersooncarm" height="40" width="40" /></a>
+<a href="https://www.postgresql.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="jefersooncarm" height="40" width="40" /></a>
+</p>
 
-
+<!---
 <h3 align="left">Estatísticas:</h3>
 <p>
   <img 
@@ -41,7 +46,7 @@
   />
 </p>
 
-<!---
+
 - 👋 Hi, I’m @jefersoncarmoo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
