@@ -40,7 +40,7 @@
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="135" 
+    height="132" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersoncarmoo&theme=react&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
