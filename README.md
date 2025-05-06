@@ -3,8 +3,6 @@
 
 - 🎓 Graduado em **Sistemas de Informação** e pós-graduado em **Marketing Digital**
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados. Projeto: [Análise de uso e percepção das Redes Sociais](https://lookerstudio.google.com/reporting/c9cff570-dddf-4196-b9e1-3b8c7fff7421)
-
 - 🌱 Atualmente estou aprendendo **Pyhton, SQL e Data Science**
 
 - 💬 Me pergunte sobre **Power BI, Looker Studio, Excel e Python**
