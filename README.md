@@ -3,7 +3,7 @@
 
 - 🎓 Graduado em **Sistemas de Informação** e pós-graduado em **Marketing Digital**
 
-- 🌱 Atualmente estou aprendendo **Pyhton, SQL e Data Science**
+- 🌱 Atualmente estou aprendendo **Pyhton, SQL, R e Data Science**
 
 - 💬 Me pergunte sobre **Power BI, Looker Studio, Excel e Python**
 
