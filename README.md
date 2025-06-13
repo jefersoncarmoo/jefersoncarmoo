@@ -26,6 +26,7 @@
 <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="excel" height="40" width="40" /></a>
 <a href="https://www.postgresql.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" height="40" width="40" /></a>
 <a href="https://console.cloud.google.com/bigquery" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/bigquery-icon-2048x2048-glyry2mj.png" alt="sql" height="40" width="40" /></a>
+<a href="https://www.r-project.org/" target="blank"><img align="center" src="https://reditorsupport.gallerycdn.vsassets.io/extensions/reditorsupport/r/2.8.6/1748665337360/Microsoft.VisualStudio.Services.Icons.Default" alt="sql" height="35" width="45" /></a>
 </p>
 
 <br/>
