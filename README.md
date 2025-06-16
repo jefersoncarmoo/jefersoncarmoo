@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Jeferson</h1>
-<h3 align="center">Estudante de Análise de Dados | Python, Power BI, Looker Studio e SQL</h3>
+<h3 align="center">Estudante de Análise de Dados | Python, Power BI, Looker Studio, R e SQL</h3>
 
 - 🎓 Graduado em **Sistemas de Informação** e pós-graduado em **Marketing Digital**
 
